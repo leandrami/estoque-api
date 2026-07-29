@@ -1,0 +1,6 @@
+[submodule "config"]
+	path = config
+	url = https://github.com/leandrami/estoque-infra-config
+[submodule "contracts"]
+	path = contracts
+	url = https://github.com/leandrami/estoque-contracts
