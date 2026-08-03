@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 
 // Consumindo o Submódulo 2
-const configPath = path.join(__dirname, "../../../config/ambiente-dev.json");
+const configPath = path.join(__dirname, "../../config/ambiente-dev.json");
 
 module.exports = {
 verificarStatus: (req, res) => {
